@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Lyrics Explained Українською</title>
+    <link>http://example.com</link>
+    <description>Ласкаво просимо до "Lyrics Explained Українською"!
+
+У цьому подкасті ми занурюємось у тексти найвідоміших світових хітів та перекладаємо їх українською мовою. Разом з вами ми розкриємо сенс, що ховається за словами, та дізнаємось історії створення цих пісень.
+
+Приєднуйтесь до нас, щоб по-новому поглянути на улюблені композиції та збагатити свої знання про музику!
+
+Цей подкаст створено за допомогою штучного інтелекту.
+</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>uk</language>
+    <lastBuildDate>Sun, 29 Jun 2025 14:52:05 +0000</lastBuildDate>
+    <itunes:author>AI Podcast</itunes:author>
+    <itunes:category text="Arts">
+      <itunes:category text="Music"/>
+    </itunes:category>
+    <itunes:image href="http://example.com/podcast_cover.jpg"/>
+    <itunes:owner>
+      <itunes:name>AI Podcast</itunes:name>
+      <itunes:email>your_email@example.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>Led Zeppelin - Stairway to Heaven</title>
+      <description>Переклад та аналіз пісні 'Stairway to Heaven' виконавця 'Led Zeppelin'.</description>
+      <enclosure url="http://example.com/episodes/lyrics_explained_ukrainian/led-zeppelin--stairway-to-heaven.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+    <item>
+      <title>The Beatles - Yesterday</title>
+      <description>Переклад та аналіз пісні 'Yesterday' виконавця 'The Beatles'.</description>
+      <enclosure url="http://example.com/episodes/lyrics_explained_ukrainian/the-beatles--yesterday.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
+    </item>
+  </channel>
+</rss>
