@@ -14,7 +14,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>uk</language>
-    <lastBuildDate>Sun, 29 Jun 2025 15:03:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 15:18:09 +0000</lastBuildDate>
     <itunes:author>AI Podcast</itunes:author>
     <itunes:category text="Arts">
       <itunes:category text="Music"/>
@@ -27,7 +27,7 @@
     <item>
       <title>Led Zeppelin - Stairway to Heaven</title>
       <description>Переклад та аналіз пісні 'Stairway to Heaven' виконавця 'Led Zeppelin'.</description>
-      <enclosure url="https://dennisliub.github.io/lyrics-podcast-hosting/episodes/lyrics_explained_ukrainian/led-zeppelin--stairway-to-heaven.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://dennisliub.github.io/lyrics-podcast-hosting/episodes/led_zeppelin__stairway_to_heaven/final_episode.mp3" length="0" type="audio/mpeg"/>
       <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
       <itunes:duration>00:00:00</itunes:duration>
     </item>
